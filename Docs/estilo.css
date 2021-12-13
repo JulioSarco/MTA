@@ -1,0 +1,79 @@
+body{
+    font-family: Arial, Helvetica;
+    background: #e8e8ee
+}
+
+.menu{
+    list-style: none;
+    padding: 0;
+    background: #ff5757;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    box-shadow: 1px 10px 37px #000;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+.menu li a:hover{
+    background: #ef8354;
+}
+
+.imagen img{
+    margin: auto;
+    margin-top: 40px;
+    display: flex   ;
+    box-shadow: 7px 10px 37px #000;
+}
+.Titulo{
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+   
+}
+.formulario{
+    width: 400px;
+    background:#ff5757 ;
+    padding: 40px;
+    margin: auto;
+    border-radius: 4px;
+    color: white;    
+    box-shadow: 7px 10px 37px #000;
+}
+
+.formulario h4{
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+.control{
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 3px solid #ef8354;
+    color: black;
+}
+.curriculum{
+    width: 100%;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+}
+.boton{
+    width: 100%;
+    background:#ef8354 ;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}
