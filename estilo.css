@@ -29,7 +29,7 @@ body{
 
 .imagen img{
     margin: auto;
-    margin-top: 40px;
+    margin-top: 50px;
     display: flex   ;
     box-shadow: 7px 10px 37px #000;
 }
